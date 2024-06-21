@@ -1,0 +1,6 @@
+# Outside contributor policies
+# We allow push by outsiders.
+# Specific outside exemptions are set in
+# https://github.com/GSA-TTS/.allstar/blob/main/outside.yaml
+
+pushAllowed: true
