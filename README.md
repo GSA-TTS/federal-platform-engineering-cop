@@ -1,4 +1,4 @@
-# The Federal Platform Engineering Community (FPEC) 
+# [The Federal Platform Engineering Community](../../wiki) (FPEC) 
 
 The **Federal Platform Engineering Community (FPEC)** brings
 together technologists that are building and operating platforms
